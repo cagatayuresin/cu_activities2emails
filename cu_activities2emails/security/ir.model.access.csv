@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_cu_activities2emails_equalizer,cu_activities2emails.equalizer,model_cu_activities2emails_equalizer,base.group_system,1,1,1,1
+,,,,,
